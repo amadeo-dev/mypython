@@ -1,0 +1,13 @@
+position relative
+vitesse
+acceleration
+angle
+couleur
+difference avec baricentre
+frequence
+Position de l'Item (téléphone, nourriture )
+
+
+disparition avec l'item
+Mouvement de bouche
+

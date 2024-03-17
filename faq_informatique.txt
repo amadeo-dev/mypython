@@ -1,0 +1,104 @@
+Qu'est ce que la RAM
+C'est la mémoire vive, espace virtuelle où évoluent les programmes quand ils sont lancés. 
+
+Qu'est ce que La mémoire morte 
+l'espace palpable où l'on stocke ses données comme le disque dur
+
+Qu'est ce que le point d'insertion
+Le curseur clignotant 
+
+Que signifie Sauvegarder 
+Créer une copie de ses documents sur un autre support
+
+Citez 4 logiciels de traitement de texte
+Word, Openoffice, works, wordpad 
+
+Qu'est ce qu'une puce informatique
+Un processeur permettant de faire des calculs (une sorte de méga transistor)
+
+Qu'est ce qu'une puce 
+Symbole marquant le début d'une ligne dans le cadre entre autre d'une liste 
+
+Citez 3 fournisseurs d'Accès à Internet
+Orange, free, darty, bouygues, sfr… 
+
+Où trouve-t-on des taquets
+Sur la règle lors d'un travail sur les tabulations 
+
+Comment s'appelle ce qui s'affiche au clic droit
+Menu contextuel 
+
+Citez 4 raccourcis clavier
+Ctrl+C (copier) Ctrl +V (coller) Ctrl +X (couper) Ctrl +P (imprimer) Ctrl +S (enregistrer) 
+
+Par où passe-t-on pour retirer un programme de l'ordinateur 
+Panneau de configuration (désinstaller un programme) ou (programmes et fonctionnalité) ou (ajout suppression de programme)
+
+Qu'est ce qu'un malware 
+Un mouchard ou un virus
+
+Qu'est ce qu'un freeware
+Un logiciel gratuit
+
+Qu'est ce qu'un shareware 
+Un logiciel partiellement gratuit
+
+Une baignware
+Un endroit ou on s'enleve les saletés
+
+Le nom de la touche qui efface à reculons
+Retour arrière
+
+La touche qui efface le caractère à droite du point d'insertion 
+La touche suppr ou suprrimer
+
+Peut-t-on changer l'aspect du pointeur de la souris 
+oui dans le panneau de config
+
+Quelle touche pour faire une photographie de l'écran
+imp écr ou prt scr 
+
+Quel est le logiciel idéal pour faire des cartes diverses
+Publisher
+
+Où trouve-t-on la calculatrice?
+dans les accessoires
+
+Citez 4 jeux inclus dans windows
+dame de pique, solitaire spider solitaire, démineur, freecell, fliper, mahjong, echec.
+
+A quoi reconnaît-t-on un raccourci ?
+à la flèche bleu en bas à gauche de l'icone 
+
+Comment créé-t-on un raccourci ?
+clic droit sur lélément - envoyer vers-bureau
+
+Quelle fonction pour envoyer rapidement un élément dans une clé 
+clic  droit dessus - envoyer vers – nom de la clé
+
+citez en 4 périphérique?
+imprimante, clavier, écran, souris, clé, USB, appareil photo, webcam,… 
+
+Quel est le format de fichier idéal et le plus utilisé par les professionnels pour transmettre un document ?
+le format PDF: fichier document portable
+
+Citez 2 antivirus gratuits
+avira, avast, MSE
+
+Citez en 3 navigateur internet:
+explorer, firefox, google chrome, opéra, safari… 
+
+Dans quelle partie de l'ordinateur peut-on retrouver sa clé USB?
+ordinateur ou poste de travail 
+
+Quelle est la différence entre Dossier et fichier ?
+On peut ranger les fichiers dans des dossiers, comme des chaussettes dans un tiroir
+
+Comment s'appelle la technologie permettant de se connecter sur une borne sans fil 
+le WIFI 
+
+Comment s'appelle la technologie permettant de se connecter sur les antennes relais des mobiles 
+la 3G ou 4G
+
+Que doit contenir obligatoirement une adresse mail ?
+un arobase, c'est a dire le caractere special ou symbol: "@" 
